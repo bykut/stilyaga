@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://bykut.github.io/stilyaga/sitemap.xml
